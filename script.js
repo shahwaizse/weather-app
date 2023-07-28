@@ -1,4 +1,4 @@
-const api_key = "2695c5c87535a399fb6ececcb60eee5c";
+const api_key = ""; //enter your api key here
 const icon = document.getElementById('icon');
 const temp = document.getElementById('temp');
 const feels_like = document.getElementById('feels_like');
